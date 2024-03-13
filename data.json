@@ -1,7 +1,7 @@
 [
-{"URL":"http://www.just-eat.co.uk/restaurants-atthai-ss9/menu","_id":{"$oid":"55f14312c7447c3da7051b27"},"address":"376 Rayleigh Road","address line 2":"Essex","name":"@ Thai","outcode":"SS9","postcode":"5PT","rating":5.5,"type_of_food":"Thai"}
-{"URL":"http://www.just-eat.co.uk/restaurants-atthairestaurant/menu","_id":{"$oid":"55f14312c7447c3da7051b28"},"address":"30 Greyhound Road Hammersmith","address line 2":"London","name":"@ Thai Restaurant","outcode":"W6","postcode":"8NX","rating":4.5,"type_of_food":"Thai"}
-{"URL":"http://www.just-eat.co.uk/restaurants-allsiam-s11/menu","_id":{"$oid":"55f14312c7447c3da7051dd1"},"address":"639 Ecclesall Road","address line 2":"Sheffield","name":"All Siam Thai Restaurant - Collection Only","outcode":"S11","postcode":"8PT","rating":6,"type_of_food":"Thai"}
-{"URL":"http://www.just-eat.co.uk/restaurants-annasthai-cr0/menu","_id":{"$oid":"55f14312c7447c3da7051f25"},"address":"235-241 High Street","address line 2":"Croydon","name":"Anna's Thai Restaurant","outcode":"CR0","postcode":"1QR","rating":4.5,"type_of_food":"Thai"}
-{"URL":"http://www.just-eat.co.uk/restaurants-annsthai-thebullshead/menu","_id":{"$oid":"55f14312c7447c3da7051f2c"},"address":"27 Bilston Street","address line 2":"Dudley","name":"Ann's Thai@ The Bulls Head","outcode":"DY3","postcode":"1JA","rating":6,"type_of_food":"Thai"}
+{"_id":{"$oid":"55f14312c7447c3da7051b27"},"address":"376 Rayleigh Road","address line 2":"Essex","name":"@ Thai","outcode":"SS9","postcode":"5PT","rating":5.5,"type_of_food":"Thai"}
+{"_id":{"$oid":"55f14312c7447c3da7051b28"},"address":"30 Greyhound Road Hammersmith","address line 2":"London","name":"@ Thai Restaurant","outcode":"W6","postcode":"8NX","rating":4.5,"type_of_food":"Thai"}
+{"_id":{"$oid":"55f14312c7447c3da7051dd1"},"address":"639 Ecclesall Road","address line 2":"Sheffield","name":"All Siam Thai Restaurant - Collection Only","outcode":"S11","postcode":"8PT","rating":6,"type_of_food":"Thai"}
+{"_id":{"$oid":"55f14312c7447c3da7051f25"},"address":"235-241 High Street","address line 2":"Croydon","name":"Anna's Thai Restaurant","outcode":"CR0","postcode":"1QR","rating":4.5,"type_of_food":"Thai"}
+{"_id":{"$oid":"55f14312c7447c3da7051f2c"},"address":"27 Bilston Street","address line 2":"Dudley","name":"Ann's Thai@ The Bulls Head","outcode":"DY3","postcode":"1JA","rating":6,"type_of_food":"Thai"}
 ]
