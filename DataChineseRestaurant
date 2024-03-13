@@ -1,0 +1,11 @@
+[
+{"id":"1","address":"228 City Road","address line 2":"Cardiff","name":".CN Chinese","outcode":"CF24","postcode":"3JH","rating":5,"type_of_food":"Chinese", "uri": "https://raw.githubusercontent.com/Naynay07Nov/FoodRandApp/main/assets/food/Happy-Chappy-Chinese-restaurant-in-Canggu-Seminyak-Bali-Indonesia.jpeg"},
+{"id":"2","address":"Unit 4 Spencer House","address line 2":"Swalwell","name":"1 2 3 Chinese","outcode":"NE16","postcode":"3DS","rating":4.5,"type_of_food":"Chinese", "uri": "https://raw.githubusercontent.com/Naynay07Nov/FoodRandApp/main/assets/food/DSC02123.7.jpeg"},
+{"id":"3","address":"362 Hornsey Road","address line 2":"London","name":"5 Star Chinese","outcode":"N19","postcode":"4HD","rating":5,"type_of_food":"Chinese", "uri": "https://raw.githubusercontent.com/Naynay07Nov/FoodRandApp/main/assets/food/hansan-plats.jpg"},
+{"id":"4","address":"1-3 Portland Street","address line 2":"Aberdeen","name":"Aberdeen Shanghai Takeaway","outcode":"AB11","postcode":"6LN","rating":5,"type_of_food":"Chinese", "uri": "https://raw.githubusercontent.com/Naynay07Nov/FoodRandApp/main/assets/food/t600x362.jpg"},
+{"id":"5","address":"97 Newington Butts","address line 2":"Elephant \u0026 Castle","name":"After Taste","outcode":"SE1","postcode":"6SF","rating":5,"type_of_food":"Chinese", "uri": "https://raw.githubusercontent.com/Naynay07Nov/FoodRandApp/main/assets/food/Cover_Delivery_1650851020.jpg"}
+
+
+
+
+]
