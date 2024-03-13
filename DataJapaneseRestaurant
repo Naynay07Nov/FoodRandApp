@@ -1,0 +1,8 @@
+[
+{"id":"1","address":"23 New Rents","address2":"Ashford","name":"Aji - Collection Only","outcode":"TN23","postcode":"2JJ","rating":6,"type_of_food":"Japanese", "uri": "https://raw.githubusercontent.com/arc6828/myreactnative/master/assets/all/event-3.jpg"},
+{"id":"2","address":"335 Caledonian Road","address2":"London","name":"Ai Sushi","outcode":"N1","postcode":"1DW","rating":5,"type_of_food":"Japanese", "uri": "https://raw.githubusercontent.com/arc6828/myreactnative/master/assets/all/event-3.jpg"},
+{"id":"3","address":"741 Green Lanes","address2":"London","name":"Arigato Sushi","outcode":"N21","postcode":"3RX","rating":4,"type_of_food":"Japanese", "uri": "https://raw.githubusercontent.com/arc6828/myreactnative/master/assets/all/event-3.jpg"},
+{"id":"4","address":"29-31 Parkway","address2":"London","name":"Bento Ramen","outcode":"NW1","postcode":"7PN","rating":5,"type_of_food":"Japanese", "uri": "https://raw.githubusercontent.com/arc6828/myreactnative/master/assets/all/event-3.jpg"},
+{"id":"5","address":"9 Parkway","address2":"London","name":"Bento Cafe","outcode":"NW1","postcode":"7PG","rating":5,"type_of_food":"Japanese", "uri": "https://raw.githubusercontent.com/arc6828/myreactnative/master/assets/all/event-3.jpg"}
+
+]
