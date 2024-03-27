@@ -7,7 +7,7 @@ import RestaurantJ from "../components/RestaurantJ";
 import { useNavigation } from '@react-navigation/native';
 
 
-export default function FRhome() {
+export default function RestaurantReview() {
     const navigation = useNavigation();
     return (
         <ScrollView>

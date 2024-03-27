@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FlatList, Image, ScrollView, Text, View } from "react-native";
+import { Button, FlatList, Image, ScrollView, Text, View } from "react-native";
 
 
 export default function Review(props) {
@@ -13,28 +13,11 @@ export default function Review(props) {
     ];
   
     return (
-        <View style={{ flexDirection:"column",justifyContent:"space-between",borderBottomWidth:1,paddingBottom:10}}>
+        <View style={{ flexDirection:"column",justifyContent:"space-between",paddingBottom:10}}>
           
             <Text style={{backgroundColor: 'lightgreen', marginTop:10,fontSize: 20 ,padding:18,textAlign:'center' }}>Review</Text>
             
-            <FlatList
-                horizontal={true}
-                data={menu}
-                renderItem={
-                    ({ item, index }) => {
-                        console.log(item, index, item.uri);
-                        return (
-                            <View style={{marginRight:1}}>
-                          
-                            <View style={{ marginTop : 15, height : 27 , width: 150, paddingHorizontal : 10, backgroundColor : 'green', borderRadius : 10 ,marginLeft:5 }}>
-                                <Text style={{ fontSize:18, color : "white",textAlign:'center'}}>{item.type}</Text>
-                            </View>            
-                        </View>
-                        );
-                    }
-                }
-                keyExtractor={item => item.type}
-            />
+          
         </View>
     
     );
