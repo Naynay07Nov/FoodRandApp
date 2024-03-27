@@ -3,6 +3,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import RestaurantReview from '../screens/RestaurantReview';
 import FoodHome from '../screens/FoodHome';
+import FRhome from '../screens/FRhome';
 
 
 const Stack = createStackNavigator();
@@ -18,8 +19,8 @@ export default function TabTab() {
             
             />
               <Stack.Screen
-                name="ReataurantReview"
-                component={RestaurantReview}
+                name="FRhome"
+                component={FRhome}
                 options={{ title: "Review" }}
             
             />
